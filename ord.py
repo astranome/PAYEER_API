@@ -3,6 +3,7 @@
 
 API client for PAYEER trading
 Example "orders , ask & bid"
+AKA "CTAKAHbI"
 """
 
 import requests
