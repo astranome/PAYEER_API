@@ -2,7 +2,7 @@
 ---ASTRA RESEARCH---
 
 API client for PAYEER trading
-Example "BYU 10 TRX Market order"
+Example "Ticker statistic 24 orders"
 """
 
 import requests
