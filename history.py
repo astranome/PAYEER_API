@@ -3,7 +3,7 @@
 ---ASTRA RESEARCH---
 
 API client for PAYEER trading
-Example "Trades"
+Example "Trades history, last 50"
 """
 
 import requests
